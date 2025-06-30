@@ -73,6 +73,17 @@ A high-level design diagram, key components, and design considerations for this 
 
 -   **Location:** `Q4/AssetViewProductHld.md`
 
+
+## Created Demo Project Also
+
+A demo implementation of this architecture has been created:
+
+- **GitHub Repository:** [https://github.com/Ritika9193/WealthWatch](https://github.com/Ritika9193/WealthWatch)
+- **Live Project:** [https://wealth-watch-three.vercel.app/dashboard](https://wealth-watch-three.vercel.app/dashboard)
+
+You can explore the live dashboard and review the codebase.            
+Note - The asset and trading services work only on localhost, as they use local storage with mock data for simulation.
+
 ---
 
 ### Submitted by:
